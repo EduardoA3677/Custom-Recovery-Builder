@@ -1,5 +1,3 @@
-runs-on: self-hosted
-
 name: Recovery Builder - TWRP
 
 on:
